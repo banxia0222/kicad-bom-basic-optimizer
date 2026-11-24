@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kicad-bom-basic-optimizer"
+version = "0.1.0"
+description = "Zero-dependency KiCad/Altium/EasyEDA BOM health checker and JLCPCB Basic part optimizer with CLI and MCP server."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.9"
+authors = [
+  {name = "PartCrossLab Contributors"}
+]
+keywords = ["kicad", "bom", "jlcpcb", "lcsc", "pcba", "electronics", "eda", "mcp"]
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Manufacturing",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: MIT License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.9",
+  "Programming Language :: Python :: 3.10",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Topic :: Scientific/Engineering :: Electronic Design Automation (EDA)",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://partcrosslab.pages.dev"
+Documentation = "https://partcrosslab.pages.dev"
+Repository = "https://github.com/banxia0222/kicad-bom-basic-optimizer"
+
+[project.scripts]
+bom-basic-optimizer = "bom_basic_optimizer.cli:main"
+bom-basic-optimizer-mcp = "bom_basic_optimizer.server:main"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["bom_basic_optimizer*"]
+
+[tool.setuptools.package-data]
+bom_basic_optimizer = ["data/*.json"]

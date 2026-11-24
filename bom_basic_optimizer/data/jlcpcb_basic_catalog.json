@@ -1,0 +1,416 @@
+{
+  "schema_version": "1.0.0",
+  "source_note": "Curated MIT public reference table of common JLCPCB Basic SMD parts. Always verify live JLCPCB Basic stock/status at checkout or on https://partcrosslab.pages.dev.",
+  "feeder_fee_usd": 3.0,
+  "resistors": {
+    "0402": {
+      "0": {"lcsc": "C17168", "mpn": "0402WGF0000TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "0R 0402 1% 1/16W Thick Film Resistor"},
+      "22": {"lcsc": "C25092", "mpn": "0402WGF220JTCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "22R 0402 1% 1/16W Thick Film Resistor"},
+      "33": {"lcsc": "C25105", "mpn": "0402WGF330JTCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "33R 0402 1% 1/16W Thick Film Resistor"},
+      "100": {"lcsc": "C25076", "mpn": "0402WGF1000TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "100R 0402 1% 1/16W Thick Film Resistor"},
+      "220": {"lcsc": "C25091", "mpn": "0402WGF2200TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "220R 0402 1% 1/16W Thick Film Resistor"},
+      "330": {"lcsc": "C25104", "mpn": "0402WGF3300TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "330R 0402 1% 1/16W Thick Film Resistor"},
+      "470": {"lcsc": "C25117", "mpn": "0402WGF4700TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "470R 0402 1% 1/16W Thick Film Resistor"},
+      "1000": {"lcsc": "C11702", "mpn": "0402WGF1001TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "1k 0402 1% 1/16W Thick Film Resistor"},
+      "2200": {"lcsc": "C25879", "mpn": "0402WGF2201TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "2.2k 0402 1% 1/16W Thick Film Resistor"},
+      "4700": {"lcsc": "C25900", "mpn": "0402WGF4701TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "4.7k 0402 1% 1/16W Thick Film Resistor"},
+      "5100": {"lcsc": "C25905", "mpn": "0402WGF5101TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "5.1k 0402 1% 1/16W Thick Film Resistor"},
+      "10000": {"lcsc": "C25744", "mpn": "0402WGF1002TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "10k 0402 1% 1/16W Thick Film Resistor"},
+      "22000": {"lcsc": "C25768", "mpn": "0402WGF2202TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "22k 0402 1% 1/16W Thick Film Resistor"},
+      "47000": {"lcsc": "C25792", "mpn": "0402WGF4702TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "47k 0402 1% 1/16W Thick Film Resistor"},
+      "100000": {"lcsc": "C25741", "mpn": "0402WGF1003TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "100k 0402 1% 1/16W Thick Film Resistor"},
+      "1000000": {"lcsc": "C26083", "mpn": "0402WGF1004TCE", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.0625, "description": "1M 0402 1% 1/16W Thick Film Resistor"}
+    },
+    "0603": {
+      "0": {"lcsc": "C21189", "mpn": "0603WAF0000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "0R 0603 1% 1/10W Thick Film Resistor"},
+      "22": {"lcsc": "C23345", "mpn": "0603WAF220JT5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "22R 0603 1% 1/10W Thick Film Resistor"},
+      "33": {"lcsc": "C23140", "mpn": "0603WAF330JT5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "33R 0603 1% 1/10W Thick Film Resistor"},
+      "100": {"lcsc": "C22775", "mpn": "0603WAF1000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "100R 0603 1% 1/10W Thick Film Resistor"},
+      "120": {"lcsc": "C22787", "mpn": "0603WAF1200T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "120R 0603 1% 1/10W Thick Film Resistor"},
+      "220": {"lcsc": "C22962", "mpn": "0603WAF2200T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "220R 0603 1% 1/10W Thick Film Resistor"},
+      "330": {"lcsc": "C23138", "mpn": "0603WAF3300T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "330R 0603 1% 1/10W Thick Film Resistor"},
+      "470": {"lcsc": "C23179", "mpn": "0603WAF4700T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "470R 0603 1% 1/10W Thick Film Resistor"},
+      "1000": {"lcsc": "C21190", "mpn": "0603WAF1001T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "1k 0603 1% 1/10W Thick Film Resistor"},
+      "2200": {"lcsc": "C4190", "mpn": "0603WAF2201T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "2.2k 0603 1% 1/10W Thick Film Resistor"},
+      "4700": {"lcsc": "C23162", "mpn": "0603WAF4701T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "4.7k 0603 1% 1/10W Thick Film Resistor"},
+      "5100": {"lcsc": "C23186", "mpn": "0603WAF5101T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "5.1k 0603 1% 1/10W Thick Film Resistor"},
+      "10000": {"lcsc": "C25804", "mpn": "0603WAF1002T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "10k 0603 1% 1/10W Thick Film Resistor"},
+      "22000": {"lcsc": "C23352", "mpn": "0603WAF2202T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "22k 0603 1% 1/10W Thick Film Resistor"},
+      "47000": {"lcsc": "C25819", "mpn": "0603WAF4702T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "47k 0603 1% 1/10W Thick Film Resistor"},
+      "100000": {"lcsc": "C25803", "mpn": "0603WAF1003T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "100k 0603 1% 1/10W Thick Film Resistor"},
+      "1000000": {"lcsc": "C22935", "mpn": "0603WAF1004T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.1, "description": "1M 0603 1% 1/10W Thick Film Resistor"}
+    },
+    "0805": {
+      "0": {"lcsc": "C17477", "mpn": "0805W8F0000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "0R 0805 1% 1/8W Thick Film Resistor"},
+      "100": {"lcsc": "C17408", "mpn": "0805W8F1000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "100R 0805 1% 1/8W Thick Film Resistor"},
+      "120": {"lcsc": "C17437", "mpn": "0805W8F1200T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "120R 0805 1% 1/8W Thick Film Resistor"},
+      "470": {"lcsc": "C17710", "mpn": "0805W8F4700T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "470R 0805 1% 1/8W Thick Film Resistor"},
+      "1000": {"lcsc": "C17513", "mpn": "0805W8F1001T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "1k 0805 1% 1/8W Thick Film Resistor"},
+      "4700": {"lcsc": "C17673", "mpn": "0805W8F4701T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "4.7k 0805 1% 1/8W Thick Film Resistor"},
+      "10000": {"lcsc": "C17414", "mpn": "0805W8F1002T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "10k 0805 1% 1/8W Thick Film Resistor"},
+      "100000": {"lcsc": "C149504", "mpn": "0805W8F1003T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.125, "description": "100k 0805 1% 1/8W Thick Film Resistor"}
+    },
+    "1206": {
+      "0": {"lcsc": "C17888", "mpn": "1206W4F0000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.25, "description": "0R 1206 1% 1/4W Thick Film Resistor"},
+      "100": {"lcsc": "C17901", "mpn": "1206W4F1000T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.25, "description": "100R 1206 1% 1/4W Thick Film Resistor"},
+      "1000": {"lcsc": "C4410", "mpn": "1206W4F1001T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.25, "description": "1k 1206 1% 1/4W Thick Film Resistor"},
+      "10000": {"lcsc": "C17902", "mpn": "1206W4F1002T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.25, "description": "10k 1206 1% 1/4W Thick Film Resistor"},
+      "100000": {"lcsc": "C17903", "mpn": "1206W4F1003T5E", "manufacturer": "UNI-ROYAL", "tolerance_pct": 1.0, "power_w": 0.25, "description": "100k 1206 1% 1/4W Thick Film Resistor"}
+    }
+  },
+  "capacitors": {
+    "0402": {
+      "18p": {"lcsc": "C1552", "mpn": "CL05C180JB5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "C0G", "tolerance_pct": 5.0, "description": "18pF 50V C0G 5% 0402 MLCC"},
+      "22p": {"lcsc": "C1555", "mpn": "CL05C220JB5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "C0G", "tolerance_pct": 5.0, "description": "22pF 50V C0G 5% 0402 MLCC"},
+      "100p": {"lcsc": "C1546", "mpn": "CL05C101JB5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "C0G", "tolerance_pct": 5.0, "description": "100pF 50V C0G 5% 0402 MLCC"},
+      "1n": {"lcsc": "C1523", "mpn": "CL05B102KB5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "1nF 50V X7R 10% 0402 MLCC"},
+      "10n": {"lcsc": "C15195", "mpn": "CL05B103KB5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "10nF 50V X7R 10% 0402 MLCC"},
+      "100n": {"lcsc": "C1525", "mpn": "CL05B104KO5NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 16.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "100nF 16V X7R 10% 0402 MLCC"},
+      "1u": {"lcsc": "C52923", "mpn": "CL05A105KA5NQNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 25.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "1uF 25V X5R 10% 0402 MLCC"},
+      "4.7u": {"lcsc": "C23733", "mpn": "CL05A475MP5NRNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 10.0, "dielectric": "X5R", "tolerance_pct": 20.0, "description": "4.7uF 10V X5R 20% 0402 MLCC"},
+      "10u": {"lcsc": "C15525", "mpn": "CL05A106MQ5NUNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 6.3, "dielectric": "X5R", "tolerance_pct": 20.0, "description": "10uF 6.3V X5R 20% 0402 MLCC"}
+    },
+    "0603": {
+      "22p": {"lcsc": "C1653", "mpn": "CL10C220JB8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "C0G", "tolerance_pct": 5.0, "description": "22pF 50V C0G 5% 0603 MLCC"},
+      "100p": {"lcsc": "C14858", "mpn": "CL10C101JB8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "C0G", "tolerance_pct": 5.0, "description": "100pF 50V C0G 5% 0603 MLCC"},
+      "1n": {"lcsc": "C1588", "mpn": "CL10B102KB8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "1nF 50V X7R 10% 0603 MLCC"},
+      "10n": {"lcsc": "C57112", "mpn": "CL10B103KB8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "10nF 50V X7R 10% 0603 MLCC"},
+      "100n": {"lcsc": "C14663", "mpn": "CC0603KRX7R9BB104", "manufacturer": "YAGEO", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "100nF 50V X7R 10% 0603 MLCC"},
+      "1u": {"lcsc": "C15849", "mpn": "CL10A105KB8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "1uF 50V X5R 10% 0603 MLCC"},
+      "4.7u": {"lcsc": "C19666", "mpn": "CL10A475KO8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 16.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "4.7uF 16V X5R 10% 0603 MLCC"},
+      "10u": {"lcsc": "C19702", "mpn": "CL10A106KP8NNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 10.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "10uF 10V X5R 10% 0603 MLCC"},
+      "22u": {"lcsc": "C59461", "mpn": "CL10A226MP8NUNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 10.0, "dielectric": "X5R", "tolerance_pct": 20.0, "description": "22uF 10V X5R 20% 0603 MLCC"}
+    },
+    "0805": {
+      "100n": {"lcsc": "C49678", "mpn": "CL21B104KBCNNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "100nF 50V X7R 10% 0805 MLCC"},
+      "1u": {"lcsc": "C28323", "mpn": "CL21B105KBFNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "1uF 50V X7R 10% 0805 MLCC"},
+      "4.7u": {"lcsc": "C1779", "mpn": "CL21A475KAQNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 25.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "4.7uF 25V X5R 10% 0805 MLCC"},
+      "10u": {"lcsc": "C15850", "mpn": "CL21A106KAYNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 25.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "10uF 25V X5R 10% 0805 MLCC"},
+      "22u": {"lcsc": "C45783", "mpn": "CL21A226MAQNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 25.0, "dielectric": "X5R", "tolerance_pct": 20.0, "description": "22uF 25V X5R 20% 0805 MLCC"}
+    },
+    "1206": {
+      "100n": {"lcsc": "C24497", "mpn": "CL31B104KBCNNNC", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X7R", "tolerance_pct": 10.0, "description": "100nF 50V X7R 10% 1206 MLCC"},
+      "10u": {"lcsc": "C13585", "mpn": "CL31A106KBHNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 50.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "10uF 50V X5R 10% 1206 MLCC"},
+      "22u": {"lcsc": "C12891", "mpn": "CL31A226KAHNNNE", "manufacturer": "Samsung Electro-Mechanics", "voltage_v": 25.0, "dielectric": "X5R", "tolerance_pct": 10.0, "description": "22uF 25V X5R 10% 1206 MLCC"}
+    }
+  },
+  "components": [
+    {
+      "id": "ams1117-3.3",
+      "category": "LDO Regulator",
+      "basic_lcsc": "C6186",
+      "basic_mpn": "AMS1117-3.3",
+      "basic_manufacturer": "Advanced Monolithic Systems",
+      "basic_package": "SOT-223",
+      "basic_description": "3.3V 1A Fixed LDO Voltage Regulator, SOT-223",
+      "patterns": [
+        {"regex": "\\bAMS1117[-_ ]?3\\.?3\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for AMS1117-3.3 in SOT-223.", "caution": "Ensure 10uF-22uF output capacitor meets stability ESR window."},
+        {"regex": "\\b(?:LM1117|LD1117|AZ1117|NCP1117|ZLDO1117)[A-Z0-9-]*3\\.?3[A-Z0-9-]*\\b", "grade": "A±", "reason": "Pin-compatible 1117-series 3.3V SOT-223 LDO mapped to JLCPCB Basic AMS1117-3.3.", "caution": "Verify SOT-223 pinout (GND/OUT/IN + tab=OUT), dropout voltage (~1.1V), and output cap ESR stability."},
+        {"regex": "\\bLM1117IMPX-3\\.3\\b|\\bLM1117S-3\\.3\\b|\\bLD1117S33", "grade": "A±", "reason": "Pin-compatible SOT-223 3.3V LDO mapped to JLCPCB Basic AMS1117-3.3.", "caution": "Check max input voltage (15V abs max) and thermal dissipation."}
+      ]
+    },
+    {
+      "id": "ams1117-5.0",
+      "category": "LDO Regulator",
+      "basic_lcsc": "C6187",
+      "basic_mpn": "AMS1117-5.0",
+      "basic_manufacturer": "Advanced Monolithic Systems",
+      "basic_package": "SOT-223",
+      "basic_description": "5.0V 1A Fixed LDO Voltage Regulator, SOT-223",
+      "patterns": [
+        {"regex": "\\bAMS1117[-_ ]?5\\.?0?\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for AMS1117-5.0 in SOT-223.", "caution": "Verify Vin <= 12V recommended operating range."},
+        {"regex": "\\b(?:LM1117|LD1117|AZ1117)[A-Z0-9-]*5\\.?0?[A-Z0-9-]*\\b", "grade": "A±", "reason": "Pin-compatible 1117-series 5.0V SOT-223 LDO mapped to JLCPCB Basic AMS1117-5.0.", "caution": "Confirm SOT-223 pinout and output capacitor stability."}
+      ]
+    },
+    {
+      "id": "xc6206p332mr",
+      "category": "LDO Regulator",
+      "basic_lcsc": "C5446",
+      "basic_mpn": "XC6206P332MR",
+      "basic_manufacturer": "UMW / Torex-compatible",
+      "basic_package": "SOT-23",
+      "basic_description": "3.3V 200mA Low-Iq CMOS LDO, SOT-23",
+      "patterns": [
+        {"regex": "\\bXC6206P332MR\\b|\\bXC6206[-_ ]?3\\.?3\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for XC6206 3.3V SOT-23 LDO.", "caution": "Max Vin is 6V and max Iout is 200mA."},
+        {"regex": "\\bMCP1700[-_ ]?3302E\\b|\\bHT7333\\b", "grade": "B", "reason": "Low-Iq 3.3V SOT-23 LDO alternative (XC6206P332MR).", "caution": "Check SOT-23 pin order (GND/VOUT/VIN) and max input voltage (6V) before substituting."}
+      ]
+    },
+    {
+      "id": "me6211c33m5g",
+      "category": "LDO Regulator",
+      "basic_lcsc": "C82942",
+      "basic_mpn": "ME6211C33M5G-N",
+      "basic_manufacturer": "Microne",
+      "basic_package": "SOT-23-5",
+      "basic_description": "3.3V 500mA LDO with Enable, SOT-23-5",
+      "patterns": [
+        {"regex": "\\bME6211C33M5G", "grade": "A±", "reason": "Direct JLCPCB Basic match for ME6211C33M5G-N.", "caution": "Max Vin is 6V."},
+        {"regex": "\\bAP2112K[-_ ]?3\\.?3\\b|\\bMIC5219[-_ ]?3\\.?3\\b|\\bRT9013[-_ ]?33\\b", "grade": "A↓", "reason": "Pin-compatible SOT-23-5 3.3V LDO with EN pin.", "caution": "Output current is 500mA (vs 600mA on AP2112K) and max Vin is 6V; verify peak current and dropout."}
+      ]
+    },
+    {
+      "id": "ao3400a",
+      "category": "N-Channel MOSFET",
+      "basic_lcsc": "C20917",
+      "basic_mpn": "AO3400A",
+      "basic_manufacturer": "Alpha & Omega Semiconductor",
+      "basic_package": "SOT-23",
+      "basic_description": "30V 5.7A Logic-Level N-Channel MOSFET, SOT-23",
+      "patterns": [
+        {"regex": "\\bAO3400A?\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for AO3400A N-Ch MOSFET (SOT-23).", "caution": "Verify gate drive >= 2.5V and Vds <= 30V."},
+        {"regex": "\\bSI2302[A-Z0-9-]*\\b|\\bIRLML2502\\b|\\bDMG2302\\b", "grade": "A↑", "reason": "Pin-compatible SOT-23 logic-level N-Ch MOSFET with higher Id (5.7A) and lower Rds(on).", "caution": "Check gate charge (Qg) if used in high-frequency switching (>100kHz)."}
+      ]
+    },
+    {
+      "id": "ao3401a",
+      "category": "P-Channel MOSFET",
+      "basic_lcsc": "C15127",
+      "basic_mpn": "AO3401A",
+      "basic_manufacturer": "Alpha & Omega Semiconductor",
+      "basic_package": "SOT-23",
+      "basic_description": "-30V -4A Logic-Level P-Channel MOSFET, SOT-23",
+      "patterns": [
+        {"regex": "\\bAO3401A?\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for AO3401A P-Ch MOSFET (SOT-23).", "caution": "Verify Vds >= -30V and gate-source limit <= 12V."},
+        {"regex": "\\bSI2301[A-Z0-9-]*\\b|\\bIRLML6402\\b|\\bDMP2045U\\b", "grade": "A↑", "reason": "Pin-compatible SOT-23 P-Ch MOSFET with strong current rating (-4A) and low Rds(on).", "caution": "Verify gate-source max voltage (12V) on >12V rails; add Zener clamp if needed."}
+      ]
+    },
+    {
+      "id": "2n7002",
+      "category": "N-Channel MOSFET",
+      "basic_lcsc": "C8545",
+      "basic_mpn": "2N7002",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOT-23",
+      "basic_description": "60V 115mA Small-Signal N-Channel MOSFET, SOT-23",
+      "patterns": [
+        {"regex": "\\b2N7002[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for 2N7002 SOT-23 small-signal MOSFET.", "caution": "Check ESD gate protection if replacing 2N7002K."},
+        {"regex": "\\bBSS138[A-Z0-9-]*\\b", "grade": "A↓", "reason": "Pin-compatible SOT-23 small-signal N-Ch MOSFET for I2C level shifting and signal switching.", "caution": "Higher max threshold voltage (~2.5V vs 1.5V on BSS138); verify on 1.8V logic buses."}
+      ]
+    },
+    {
+      "id": "mmbt3904",
+      "category": "NPN Transistor",
+      "basic_lcsc": "C20526",
+      "basic_mpn": "MMBT3904",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOT-23",
+      "basic_description": "40V 200mA General-Purpose NPN BJT, SOT-23",
+      "patterns": [
+        {"regex": "\\b(?:MMBT3904|SMBTA06|BC847[A-C]?)\\b", "grade": "A±", "reason": "General-purpose SOT-23 NPN BJT mapped to JLCPCB Basic MMBT3904.", "caution": "Verify hFE bin and Vceo (40V) for analog bias circuits."}
+      ]
+    },
+    {
+      "id": "1n4148ws",
+      "category": "Switching Diode",
+      "basic_lcsc": "C2128",
+      "basic_mpn": "1N4148WS",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOD-323",
+      "basic_description": "75V 150mA Fast Switching Diode, SOD-323",
+      "patterns": [
+        {"regex": "\\b1N4148WS\\b|\\bBAV16WS\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for 1N4148WS in SOD-323.", "caution": "Confirm SOD-323 cathode band polarity in assembly centroid file."},
+        {"regex": "\\b1N4148W\\b|\\b1N4148X\\b|\\bLL4148\\b", "grade": "B", "reason": "Electrically identical 1N4148 fast switching diode in SOD-323 Basic package.", "caution": "Footprint difference: 1N4148W is SOD-123 and LL4148 is MiniMELF; update footprint to SOD-323 if switching."}
+      ]
+    },
+    {
+      "id": "bat54c",
+      "category": "Schottky Diode Array",
+      "basic_lcsc": "C37704",
+      "basic_mpn": "BAT54C",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOT-23",
+      "basic_description": "30V 200mA Dual Common-Cathode Schottky Diode, SOT-23",
+      "patterns": [
+        {"regex": "\\bBAT54C[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for BAT54C dual common-cathode Schottky (SOT-23).", "caution": "Confirm pin 3 is common cathode."},
+        {"regex": "\\bBAT54\\b(?!S|A|C)", "grade": "B", "reason": "Closest JLCPCB Basic BAT54-family part is dual common-cathode BAT54C (SOT-23).", "caution": "BAT54 is a single diode; verify unused anode pin connection on BAT54C before substituting."}
+      ]
+    },
+    {
+      "id": "bat54s",
+      "category": "Schottky Diode Array",
+      "basic_lcsc": "C37705",
+      "basic_mpn": "BAT54S",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOT-23",
+      "basic_description": "30V 200mA Dual Series Schottky Diode, SOT-23",
+      "patterns": [
+        {"regex": "\\bBAT54S[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for BAT54S dual series Schottky (SOT-23).", "caution": "Confirm series midpoint pinout matches schematic symbol."}
+      ]
+    },
+    {
+      "id": "ss34",
+      "category": "Schottky Rectifier",
+      "basic_lcsc": "C8678",
+      "basic_mpn": "SS34",
+      "basic_manufacturer": "MDD (Microdiode Electronics)",
+      "basic_package": "SMA",
+      "basic_description": "40V 3A Schottky Barrier Rectifier, SMA (DO-214AC)",
+      "patterns": [
+        {"regex": "\\b(?:SS34|B340A|SK34|MBRS340)[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct 40V 3A SMA Schottky rectifier mapped to JLCPCB Basic SS34.", "caution": "Verify footprint is SMA (DO-214AC); SMB variants need footprint check."}
+      ]
+    },
+    {
+      "id": "ss14",
+      "category": "Schottky Rectifier",
+      "basic_lcsc": "C2480",
+      "basic_mpn": "SS14",
+      "basic_manufacturer": "MDD (Microdiode Electronics)",
+      "basic_package": "SMA",
+      "basic_description": "40V 1A Schottky Barrier Rectifier, SMA (DO-214AC)",
+      "patterns": [
+        {"regex": "\\b(?:SS14|B140|SK14|MBRS140)[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct 40V 1A SMA Schottky rectifier mapped to JLCPCB Basic SS14.", "caution": "Confirm SMA (DO-214AC) footprint."}
+      ]
+    },
+    {
+      "id": "1n5819ws",
+      "category": "Schottky Diode",
+      "basic_lcsc": "C191023",
+      "basic_mpn": "1N5819WS",
+      "basic_manufacturer": "Changjiang Electronics Tech (CJ)",
+      "basic_package": "SOD-323",
+      "basic_description": "40V 1A Schottky Diode, SOD-323",
+      "patterns": [
+        {"regex": "\\b(?:1N5819WS|B5819WS?)[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct 40V 1A SOD-323 Schottky mapped to JLCPCB Basic 1N5819WS.", "caution": "Check SOD-323 thermal dissipation near 1A continuous load."}
+      ]
+    },
+    {
+      "id": "smbj5.0a",
+      "category": "TVS Diode",
+      "basic_lcsc": "C78392",
+      "basic_mpn": "SMAJ5.0A",
+      "basic_manufacturer": "BrightKing / Littelfuse-compatible",
+      "basic_package": "SMA",
+      "basic_description": "5.0V 400W Unidirectional TVS Diode, SMA (DO-214AC)",
+      "patterns": [
+        {"regex": "\\bSMAJ5\\.0A\\b|\\bSMAJ5A\\b", "grade": "A±", "reason": "Direct 5V 400W SMA unidirectional TVS match.", "caution": "Confirm cathode polarity band toward +5V rail."},
+        {"regex": "\\bSMBJ5\\.0A\\b|\\bSMBJ5A\\b", "grade": "B", "reason": "Lower-cost JLCPCB Basic 5V TVS option (SMAJ5.0A, 400W SMA vs 600W SMB).", "caution": "Footprint (SMA vs SMB) and peak pulse power (400W vs 600W) differ; keep SMBJ5.0A Extended if 600W surge rating is required."},
+        {"regex": "\\bSMBJ5\\.0CA\\b|\\bSMAJ5\\.0CA\\b", "grade": "B", "reason": "Unidirectional 5V TVS Basic option (SMAJ5.0A).", "caution": "Unidirectional vs bidirectional TVS — only substitute on DC rails that never see negative voltage; keep Extended on AC/bipolar lines."}
+      ]
+    },
+    {
+      "id": "usblc6-2sc6",
+      "category": "USB ESD Protection",
+      "basic_lcsc": "C7519",
+      "basic_mpn": "USBLC6-2SC6",
+      "basic_manufacturer": "STMicroelectronics",
+      "basic_package": "SOT-23-6",
+      "basic_description": "Very Low Capacitance USB 2.0 ESD Protection Array, SOT-23-6",
+      "patterns": [
+        {"regex": "\\bUSBLC6-2SC6[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for ST USBLC6-2SC6 (C7519).", "caution": "Verify SOT-23-6 pin 1 orientation on high-speed D+/D- differential pair."},
+        {"regex": "\\b(?:TPD2E001|PRTR5V0U2X|SRV05-4|NUP2201)[A-Z0-9-]*\\b", "grade": "B", "reason": "Popular JLCPCB Basic USB 2.0 ESD array alternative (USBLC6-2SC6, SOT-23-6).", "caution": "Check pinout and line capacitance (3.5pF) against original ESD diode before rerouting."}
+      ]
+    },
+    {
+      "id": "tja1051t3",
+      "category": "CAN Transceiver",
+      "basic_lcsc": "C38695",
+      "basic_mpn": "TJA1051T/3,118",
+      "basic_manufacturer": "NXP Semiconductors",
+      "basic_package": "SOIC-8",
+      "basic_description": "High-Speed CAN Transceiver with 3.3V VIO, SOIC-8",
+      "patterns": [
+        {"regex": "\\bTJA1051T/?3[A-Z0-9,_-]*\\b", "grade": "A±", "reason": "Direct SOIC-8 CAN transceiver match (TJA1051T/3, 3.3V VIO).", "caution": "Verify JLCPCB Basic vs Extended stock tier before checkout; confirm pin 5 is VIO (3.3V)."},
+        {"regex": "\\b(?:TJA1051T|SIT1051T/?3|MCP2562|TCAN1051V?)[A-Z0-9/_-]*\\b", "grade": "B", "reason": "Pin-compatible SOIC-8 5V CAN transceiver with VIO (TJA1051T/3).", "caution": "Check pin 5 (VIO vs NC/SPLIT) and pin 8 (S standby vs silent mode) against your schematic."}
+      ]
+    },
+    {
+      "id": "ch340c",
+      "category": "USB-to-UART Bridge",
+      "basic_lcsc": "C84681",
+      "basic_mpn": "CH340C",
+      "basic_manufacturer": "WCH (Jiangsu Qin Heng)",
+      "basic_package": "SOP-16",
+      "basic_description": "Crystal-less USB-to-UART Serial Bridge IC, SOP-16",
+      "patterns": [
+        {"regex": "\\bCH340C\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for CH340C crystal-less USB-UART bridge.", "caution": "Decouple V3 pin with 100nF when powered from 5V."},
+        {"regex": "\\bCH340G\\b", "grade": "A↑", "reason": "Drop-in SOP-16 upgrade: CH340C integrates the 12MHz clock, removing external crystal and load caps.", "caution": "Leave pins 7 & 8 (XI/XO on CH340G) unconnected or DNP the crystal/load caps."},
+        {"regex": "\\b(?:CP2102[A-Z0-9-]*|FT232RL|FT231X[A-Z0-9-]*)\\b", "grade": "B", "reason": "Low-cost JLCPCB Basic USB-UART alternative (CH340C, SOP-16).", "caution": "Different package/pinout and OS driver compared to CP2102/FTDI; requires schematic and layout change."}
+      ]
+    },
+    {
+      "id": "ne555dr",
+      "category": "Timer IC",
+      "basic_lcsc": "C46749",
+      "basic_mpn": "NE555DR",
+      "basic_manufacturer": "Texas Instruments",
+      "basic_package": "SOIC-8",
+      "basic_description": "Single Precision Timer IC, 4.5V-16V, SOIC-8",
+      "patterns": [
+        {"regex": "\\b(?:NE555|LM555|SA555|NA555)[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct SOIC-8 bipolar 555 timer mapped to JLCPCB Basic NE555DR.", "caution": "Verify SOIC-8 footprint and >=4.5V supply rail."},
+        {"regex": "\\b(?:TLC555|LMC555|ICM7555)[A-Z0-9-]*\\b", "grade": "B", "reason": "JLCPCB Basic bipolar 555 timer (NE555DR) vs CMOS 555.", "caution": "Bipolar NE555 draws higher quiescent current (~3-10mA) and needs >=4.5V; keep CMOS Extended for 3.3V or battery designs."}
+      ]
+    },
+    {
+      "id": "lm358dr",
+      "category": "Operational Amplifier",
+      "basic_lcsc": "C7950",
+      "basic_mpn": "LM358DR",
+      "basic_manufacturer": "Texas Instruments",
+      "basic_package": "SOIC-8",
+      "basic_description": "Dual General-Purpose Operational Amplifier, SOIC-8",
+      "patterns": [
+        {"regex": "\\bLM358[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct SOIC-8 dual op-amp mapped to JLCPCB Basic LM358DR.", "caution": "Output swings to ~Vcc-1.5V (not rail-to-rail high)."}
+      ]
+    },
+    {
+      "id": "74hc595d",
+      "category": "Shift Register",
+      "basic_lcsc": "C5947",
+      "basic_mpn": "SN74HC595DR",
+      "basic_manufacturer": "Texas Instruments",
+      "basic_package": "SOIC-16",
+      "basic_description": "8-Bit Serial-In Parallel-Out Shift Register, SOIC-16",
+      "patterns": [
+        {"regex": "\\b(?:SN)?74HC595[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct SOIC-16 8-bit shift register mapped to JLCPCB Basic SN74HC595DR.", "caution": "Verify SOIC-16 (3.9mm narrow) footprint."}
+      ]
+    },
+    {
+      "id": "el817c",
+      "category": "Optocoupler",
+      "basic_lcsc": "C12601",
+      "basic_mpn": "EL817(S)(C)(TA)-G",
+      "basic_manufacturer": "Everlight Electronics",
+      "basic_package": "SMD-4",
+      "basic_description": "Transistor Output Optocoupler, CTR 200-400%, SMD-4",
+      "patterns": [
+        {"regex": "\\b(?:PC817|EL817|LTV-817|TLP521)[A-Z0-9()-]*\\b", "grade": "A±", "reason": "Standard 4-pin optocoupler mapped to JLCPCB Basic EL817C SMD-4.", "caution": "Verify CTR rank (C: 200-400%) and SMD-4 creepage footprint."}
+      ]
+    },
+    {
+      "id": "mp1584en",
+      "category": "Buck Converter",
+      "basic_lcsc": "C14259",
+      "basic_mpn": "MP1584EN-LF-Z",
+      "basic_manufacturer": "Monolithic Power Systems (MPS)",
+      "basic_package": "SOIC-8-EP",
+      "basic_description": "28V 3A 1.5MHz Step-Down Buck Converter, SOIC-8-EP",
+      "patterns": [
+        {"regex": "\\bMP1584[A-Z0-9-]*\\b", "grade": "A±", "reason": "Direct JLCPCB Basic match for MPS MP1584EN buck converter.", "caution": "Connect exposed thermal pad to GND plane with thermal vias."}
+      ]
+    },
+    {
+      "id": "led-0603-green",
+      "category": "Indicator LED",
+      "basic_lcsc": "C72043",
+      "basic_mpn": "19-217/GHC-YR1S2/3T",
+      "basic_manufacturer": "Everlight Electronics",
+      "basic_package": "0603",
+      "basic_description": "Emerald Green 0603 SMD Indicator LED",
+      "patterns": [
+        {"regex": "\\bLED[-_ ]?0603[-_ ]?GREEN\\b|\\b0603[-_ ]?GREEN[-_ ]?LED\\b|\\bLTST-C191KGKT\\b", "grade": "A±", "reason": "Standard 0603 green indicator LED mapped to JLCPCB Basic Everlight C72043.", "caution": "Check forward voltage (~3.0V) and cathode orientation."}
+      ]
+    },
+    {
+      "id": "led-0603-red",
+      "category": "Indicator LED",
+      "basic_lcsc": "C2286",
+      "basic_mpn": "KT-0603R",
+      "basic_manufacturer": "KENTO",
+      "basic_package": "0603",
+      "basic_description": "Red 0603 SMD Indicator LED",
+      "patterns": [
+        {"regex": "\\bLED[-_ ]?0603[-_ ]?RED\\b|\\b0603[-_ ]?RED[-_ ]?LED\\b|\\bLTST-C191KRKT\\b", "grade": "A±", "reason": "Standard 0603 red indicator LED mapped to JLCPCB Basic KT-0603R (C2286).", "caution": "Check forward voltage (~2.0V) and series resistor current."}
+      ]
+    }
+  ]
+}
